@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg41"
+   width="80.845703"
+   height="111.76562"
+   viewBox="0 0 80.845703 111.76562"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   inkscape:export-filename="/Users/giwanlim/Desktop/homework/logo.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs45" />
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="5.4473684"
+     inkscape:cx="48.73913"
+     inkscape:cy="54.062802"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1440"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g47" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g47"
+     transform="translate(-1.9824219,-1.6523438)">
+    <path
+       id="path254"
+       style="fill:#d71920;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 42.40625,1.6523438 1.9824219,113.41797 42.40625,50.849609 82.828125,113.41797 Z" />
+  </g>
+</svg>
